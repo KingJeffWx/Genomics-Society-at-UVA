@@ -1,0 +1,21 @@
+.row {
+    background-color:navy;
+    color: gray;
+    border-top: 1px solid black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.flyer-row {
+    border: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+h1, h4 {
+    color: white;
+}
+
+#welcome {
+    padding-top: 100px;
+}
