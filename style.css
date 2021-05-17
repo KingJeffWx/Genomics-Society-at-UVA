@@ -1,9 +1,12 @@
 .row {
-    background-color:#232D4B;
-    color: #DADADA;
+    background-color:#FFFFFF;
+    color: #000000;
     border-top: 2px solid #666666;
     padding-top: 40px;
     padding-bottom: 40px;
+}
+.navbar {
+    background-color:#7cf87c;
 }
 
 .flyer-row {
